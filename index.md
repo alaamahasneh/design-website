@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+Desing Website
+Designing your own website. Seems daunting, doesn’t it? Well, fear not. Our guide will show you how anyone can build a website – with just a few pointers! 
 
-You can use the [editor on GitHub](https://github.com/alaamahasneh/design-website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A lot of folks think that if you want to design a great website, you need to be some Silicon Valley whizz-kid or have state-of-the-art tools. The good news? That’s total garbage.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+That said, you will need to know a thing or two about web design. After all, it’s important – so much so that 38% of visitors will leave a website if they find the layout unattractive.
 
-### Markdown
+You can think of web design like selling a car – it could have the most incredible engine, but if the chassis is hideous, people won’t be interested in buying it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here at Website Builder Expert, we know a thing or two about designing websites. So to help you out, we’ve put together this simple, easy to follow, eight step guide. For a quick overview, here’s what we’ll be covering:
 
-```markdown
-Syntax highlighted code block
+Designing Websites: Our 8 Step Guide
+Define Your Site’s Purpose and Strategy
+Research the Latest Web Design Trends 
+Choose Your Platform
+Select a Template and Start Customizing
+Decide on Your Branding
+Add In and Optimize Your Content
+Publish Your Website
+Analyze and Improve
+Below, we’ll run through all eight steps in detail, and teach you exactly what to do at each stage. If you’re interested in designing a new website, or giving an existing one a makeover, then you’re in the right place.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alaamahasneh/design-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Have your mouse at the ready, and get those creative juices flowing – it’s time to dive in.
